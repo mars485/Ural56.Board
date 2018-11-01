@@ -7,7 +7,7 @@ author: gnomo1o9
 post_excerpt: ""
 layout: page
 permalink: >
-  http://auva-servis56.ru/politika-konfidentsialnosti-2/
+  https://auva-servis56.ru/politika-konfidentsialnosti-2/
 published: true
 post_date: 2018-11-01 12:56:17
 ---
