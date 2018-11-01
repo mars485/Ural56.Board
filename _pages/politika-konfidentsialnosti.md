@@ -6,7 +6,8 @@ post_title: >
 author: gnomo1o9
 post_excerpt: ""
 layout: page
-permalink: 'http://auva-servis56.ru/%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0-%d0%ba%d0%be%d0%bd%d1%84%d0%b8%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d0%b8/'
+permalink: >
+  http://auva-servis56.ru/politika-konfidentsialnosti/
 published: true
 post_date: 2018-10-30 14:13:03
 ---
