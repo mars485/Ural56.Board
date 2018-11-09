@@ -7,7 +7,8 @@ post_title: >
 author: gnomo1o9
 post_excerpt: ""
 layout: page
-permalink: 'http://auva-servis56.ru/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d0%b0%d1%8f-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%86%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b4%d0%b5%d1%82%d0%b5%d0%b9-%d0%b4/'
+permalink: >
+  https://auva-servis56.ru/informatsionnaya-produktsiya-dlya-detej-d/
 published: true
 post_date: 2018-10-30 14:15:35
 ---
